@@ -26,7 +26,7 @@ The above table illustrates a comparative analysis of experimental results betwe
 You can find the TwinXSQL dataset from `/data/TwinXSQL`.
 
 # Models
-You can find the model with fine-tuned weights from `/models`.
+You can find the model with fine-tuned weights from [release](https://github.com/LIANGQINGYUAN/SCAD-TwinXSQL/releases/tag/model).
 
 # Fine-tuning
 You can find the fine-tuning details from `/src`.
