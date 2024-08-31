@@ -1,7 +1,7 @@
 
 # Introduction
 
-The repository for Paper "Specific-Component Aware Pretraining for XML Code Updating"
+The repository for Paper "Bipartite-Grammar Aware Pretraining for XML-SQL Code Updating"
 
 ![xml](./assets/xml.png)
 
